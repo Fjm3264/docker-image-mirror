@@ -1,4 +1,1 @@
-wordpress
-halohub/halo:2.20
-wiznote/wizserver:latest
-eclipse-temurin:21-jre
+cskefu/contact-center:develop
