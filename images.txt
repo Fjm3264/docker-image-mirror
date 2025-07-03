@@ -1,5 +1,6 @@
-#用于测试脚本
-redis:6.0
-mysql:8.2.0
-nginx:1.25
-emqx:5.3.2
+nacos/nacos-server:2.0.2
+rabbitmq:3.8.15-management
+xuxueli/xxl-job-admin:2.2.0
+wurstmeister/kafka:2.13-2.7.0
+jenkins/jenkins:2.319.3-lts-jdk11
+elasticsearch:7.6.2
