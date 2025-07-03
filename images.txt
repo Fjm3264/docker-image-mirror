@@ -1,6 +1,4 @@
-nacos/nacos-server:2.0.2
-rabbitmq:3.8.15-management
-xuxueli/xxl-job-admin:2.2.0
-wurstmeister/kafka:2.13-2.7.0
-jenkins/jenkins:2.319.3-lts-jdk11
-elasticsearch:7.6.2
+wordpress
+halohub/halo:2.20
+wiznote/wizserver:latest
+eclipse-temurin:21-jre
