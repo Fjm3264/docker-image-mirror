@@ -1,1 +1,1 @@
-overleaf/overleaf:latest
+redis
