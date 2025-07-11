@@ -1,1 +1,1 @@
-Overleaf
+overleaf/overleaf:latest
