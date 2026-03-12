@@ -1,1 +1,1 @@
-mongo:latest
+nacos:2.0.4
