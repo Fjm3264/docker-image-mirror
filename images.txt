@@ -1,1 +1,1 @@
-easysoft/zentao:ipd5.3.k8s-20260707-php7
+easysoft/zentao:22.3-20260707
